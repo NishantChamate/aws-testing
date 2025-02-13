@@ -1,0 +1,10 @@
+2025-02-12 08:00:01 - INFO - Addition started: 12 + 8
+2025-02-12 08:00:01 - INFO - Addition result: 20
+2025-02-12 08:01:15 - INFO - Subtraction started: 50 - 17
+2025-02-12 08:01:15 - INFO - Subtraction result: 33
+2025-02-12 08:02:30 - INFO - Multiplication started: 7 * 6
+2025-02-12 08:02:30 - INFO - Multiplication result: 42
+2025-02-12 08:03:45 - INFO - Division started: 144 / 12
+2025-02-12 08:03:45 - INFO - Division result: 12.0
+2025-02-12 08:05:02 - ERROR - Division by zero attempted: 9 / 0
+2025-02-12 08:05:02 - ERROR - Cannot divide by zero!

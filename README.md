@@ -55,6 +55,4 @@ Before beginning, ensure you have:
 - Click **Launch Instance**.
 
 ### Step 6: Connect to the Instance
-Use the following SSH command to access your instance:
-```bash
-ssh -i calculator-key.pem ec2-user@your-ec2-public-ip
+
